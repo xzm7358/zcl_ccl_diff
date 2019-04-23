@@ -26,7 +26,7 @@
 
 |Bits: 0-1|  2 | 3 | 4|  5-7 |
 | --| -- | -- | -- | -- |
-|Frame type | Manufacturer specific|  Direction | Disable Default Response | Reserved|
+|Frame type | Reserved|  Direction | Disable Default Response | Reserved|
 
 ### 2.cluster Id 差异（zcl为2个字节，ccl为1个字节）
 
